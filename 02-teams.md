@@ -1,8 +1,8 @@
 # Teams - Who does what?
 
-Figuring out who to bring a particular issue or question to shouldn’t be a guessing game. Most concerns fall pretty clearly within the responsibility of a specific team at the IT Department, and the head of that team should be the first point of contact. 
+Figuring out who to bring a particular issue or question to shouldn’t be a guessing game. Most concerns fall pretty clearly within the responsibility of a specific team at the IT Department, and the head of that team should be the first point of contact.
 
-Be flexible about it, don’t say this is not my job, everything is everyone’s job. When someone fails, we all (IT Department) fails.
+Be flexible about it, don’t say this is not my job, everything is everyone’s job. When someone fails, we all (IT Department) fail.
 
 Below you'll find a list of the teams within the IT Department. They're listed in alphabetical order by team name, and the most senior people in a team are shown in bold.
 
@@ -31,15 +31,15 @@ Team email: it.ab@gc.edu.gm
 
 We have two head-level at the IT Department, head and deputy head of IT Department
 
-**Abd Al-Ala Camara** is the head of IT Department and runs Ui/Ux Design and Front-end Development. He’s principally responsible for setting the overall direction of the IT Department. Abd Al-Ala spends most of his time working at RD.
+**Abd Al-Ala Camara** is the head of the IT Department and runs Ui/Ux Design and Front-end Development. He’s principally responsible for setting the overall direction of the IT Department. Abd Al-Ala spends most of his time working at RD.
 
-**Mamadou AR Jallow** is the deputy head of IT Department and runs the ITS team. Mamadou is responsible for running the technical direction of all IT related things at the college.
+**Mamadou AR Jallow** is the deputy head of the IT Department and runs the ITS team. Mamadou is responsible for running the technical direction of all IT related things at the college.
 
 ## GC Journal - (GCJ)
 
 GC Journal is responsible for news, events and notices within and outside of the college. This team involved , designers, photographers, content strategist and journalist.
 
-**Ebrima Press Bah** is the head of this team. He is responsible to proof read and check everything before it is published. His team works closely with ITRs and RD for information flow in and out of the IT Department and technical issues respectively.
+**Ebrima Press Bah** is the head of this team. He is responsible to proofread and check everything before it is published. His team works closely with ITRs and RD for information flow in and out of the IT Department and technical issues respectively.
 
 His team consists of the following:
 
@@ -51,7 +51,7 @@ Team email: it.gcj@gc.edu.gm
 
 ## IT Research and Development - (RD)
 
-This team work on deep research projects such as, API Design, GC PORTAL etc. Our website and its related sites are from this team. **Cherno Faal** is the head of this team.
+This team works on deep research projects such as, API Design, GC PORTAL etc. Our website and its related sites are from this team. **Cherno Faal** is the head of this team.
 
 His team consists of the following:
 
@@ -67,7 +67,7 @@ Team email: it.rd@gc.edu.gm
 
 **Bubacarr Sambou** is the head of this team. IT Relations is responsible for people operations within and outside of the IT Department. They respond to media inquiries, arrange interviews, events, meetings, GC social networks and act as a spokesperson for the IT Department. Bubacarr works with Abd Al-Ala and Mamadou to make sure the IT Department is running smoothly. Sambou is often the best person to tap first, when you don't know who to talk to about a problem.
 
-Mansur Badjie is IT Relation head’s assistant. He assists Sambou with everything when Sambou is not on the ground, and he’s directly responsible for all the schools within the college.Mansur Badjie is IT Relation head’s assistant. He assists Sambou with everything when Sambou is not on the ground, and he’s directly responsible for all the schools within the college.
+Mansur Badjie is IT Relation head’s assistant. He assists Sambou with everything when Sambou is not on the ground, and he’s directly responsible for all the schools within the college.
 
 His team consists of the following:
 
@@ -91,11 +91,11 @@ This team comprises of the following sub teams/sections:
 
 1. School of Agriculture (SAG)
 
-   **Abd Al-Ala Camara** sub manage this school IT needs under the leadership of IT Support head and he is assisted by Lamin  Manneh.
+   **Abd Al-Ala Camara** sub manages this school IT needs under the leadership of IT Support head and he is assisted by Lamin  Manneh.
 
 2. School of Education (SED)
 
-   **Ebrima S. York** sub manage this school IT needs under the leadership of IT Support head and he is assisted by Ousman Touray. 
+   **Ebrima S. York** sub manages this school IT needs under the leadership of IT Support head and he is assisted by Ousman Touray. 
 
    This school is further divided into sub individual teams to be responsible for that program of department/unit. 
 
@@ -110,11 +110,11 @@ This team comprises of the following sub teams/sections:
 
 3. School of Nursing & Midwifery (SNM)
 
-   **Mamadou AR Jallow** sub manage this school IT needs under the leadership of IT Support head and he is assisted by Na Ceesay Darboe.
+   **Mamadou AR Jallow** sub manages this school IT needs under the leadership of IT Support head and he is assisted by Na Ceesay Darboe.
 
 4. School of Public Health (SPH)
 
-   **Mansur Badjie** sub manage this school IT needs under the leadership of IT Support head and he is assisted by Ebrima Faal.
+   **Mansur Badjie** sub manages this school IT needs under the leadership of IT Support head and he is assisted by Ebrima Faal.
 
 ### Systems Administration
 
@@ -126,7 +126,7 @@ This sub team is responsible for the college network, hardware & software instal
 
 ### Applications Administration & QA
 
-This sub team is responsible for the college Internet and Intra-net applications. They also act as QA for all the application before they are ship. They make sure to test and break things so we know what needs fixing before release. **Ebrima S. York** is the team head and works with the following staff:
+This sub team is responsible for the college Internet and Intranet applications. They also act as QA for all the applications before they are shipped. They make sure to test and break things so we know what needs fixing before release. **Ebrima S. York** is the team head and works with the following staff:
 
 1. All IT staff (Everyone should be able to administer all college applications including the portal and should be in the position to assist staff and students)
 

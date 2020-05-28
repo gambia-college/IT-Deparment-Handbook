@@ -1,6 +1,6 @@
 # Staff
 
-Below you'll find a list of staff and contact details within the IT Department. They're listed alphabetical order by last name.
+Below you'll find a list of staff and contact details within the IT Department. They're listed alphabetically by last name.
 
 ## Full time
 
@@ -23,5 +23,3 @@ Below you'll find a list of staff and contact details within the IT Department. 
 |      |            |          |                     |       |
 
 ## Part Time
-
-## 

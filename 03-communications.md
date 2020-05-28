@@ -10,8 +10,8 @@ Rule of engagements to always keep in mind at the IT Department when communicati
 4. Communication is lossy, especially verbal communication. Every hearsay hop adds static and chips at fidelity. Whenever possible, communicate directly with those you're addressing rather than passing the message through intermediaries.
 5. Ask if things are clear. Ask what you left out. Ask if there was anything someone was expecting that you didn't cover. Address the gaps before they widen with time.
 6. If you want an answer, you have to ask a question. People typically have a lot to say, **but they'll volunteer little**. Automatic questions on a regular schedule help people practice sharing, writing, and communicating.
-7. Talk to people according to their **level of understanding** (Abu Bakr Sidiq RA). Talk to the students and staff with respect, even if you cannot solve their problem. This is tough we all make this mistake (including my self) time to time, but we can do better.
-8. Watch your **relationships with your teammates**. Do not say or do things that will make them sad (backbiting, slandering or gossiping them). The most belove thing to the devil is to make someone sad by taking him/her off track. Sadness weakens the heart and diminishes determination and wanting to go forward (Ibnul Kayum RA). For this reason be happy, optimistic and think good of others. Again this point is tough we all make others sad (including my self) time to time, but we can do better.
+7. Talk to people according to their **level of understanding** (Abu Bakr Sidiq RA). Talk to the students and staff with respect, even if you cannot solve their problem. This is tough. We all make this mistake (including myself) time to time, but we can do better.
+8. Watch your **relationships with your teammates**. Do not say or do things that will make them sad (backbiting, slandering or gossiping them). The most beloved thing to the devil is to make someone sad by taking him/her off track. Sadness weakens the heart and diminishes determination and wanting to go forward (Ibnul Kayum RA). For this reason be happy, optimistic and think good of others. Again this point is tough. We all make others sad (including myself) from time to time, but we can do better.
 9. Give meaningful discussions a **meaningful amount of time to develop and unfold**. Rushing to judgement, or demanding immediate responses, only serves to increase the odds of poor decision making. 
 10. Meetings are the last resort, not the first option.
 11. Writing solidifies, chat dissolves. Substantial decisions start and end with an exchange of complete thoughts, not one-line-at-a-time jousts. If it's important, critical, or fundamental, **write it up**, don't chat it down.
@@ -47,17 +47,16 @@ We will use **slack** and **Basecamp** (for RD team only) for all IT Department 
 The Gambia College [Slack link](thegambiacollege.slack.com)
 
 - **Announcements** - All IT Department announcements here. when you have something to announce within the department, don't send an email. Email is decentralized and there's no permanent record in a permanent place everyone can see. This means everyone sees the same thing, everyone hears the same thing, and everyone knows the same thing - including future employees who are yet to join the IT Department. We now have a shared truth.
-- **Automatic daily** - **“What did you work on today”** Everyday at 4pm or so, tell us what you have work on today - make it brief and to the point.
-- **Automatic weekly** - **“What will you be working on this week”** Every Monday morning, at your convenient time, tell us your week plan - make it brief and to the point.
+- **Automatic daily** - **“What did you work on today?”** Everyday at 4pm or so, tell us what you have work on today - make it brief and to the point.
+- **Automatic weekly** - **“What will you be working on this week?”** Every Monday morning, at your convenient time, tell us your week plan - make it brief and to the point.
 - **IT Department Reading** - **“ITREAD”** Every three months, a book is shared within the department for reading. These entirely **optional readings** are meant for learning things outside of IT topics. Anyone can suggest a book and it will be voted out.
-- **Automatic occasionally** - **“Social questions”** Every few weeks, or once a month, you are automatically ask a social-style question. Such as “Did you try anything new lately?”, “Anything inspire you lately?”, “Seen any great design recently?”, “What did you do this weekend?” etc These entirely **optional questions** are meant to shake loose some stuff that you’d love to share with everyone else, but you hadn’t had an opportunity to do so.
+- **Automatic occasionally** - **“Social questions”** Every few weeks, or once a month, you are automatically asked a social-style question. Such as “Did you try anything new lately?”, “Anything inspire you lately?”, “Seen any great design recently?”, “What did you do this weekend?” etc These entirely **optional questions** are meant to shake loose some stuff that you’d love to share with everyone else, but you hadn’t had an opportunity to do so.
 - **Reflect every 4 months - Heartbeats** - Heartbeats summarize the last 4 months of work for a given team, or individual (if that person is a team of one). They're written by the head of the team, and they're meant for everyone in the IT Department to read. They summarize the big picture accomplishments, they detail the little things that mattered, and they generally highlight the importance of the work. They'll also shine a light on challenges and difficulties along the way. They're a good reminder that it's not all sunshine all the time. On balance, Heartbeats are wonderful to write, fun to read, and they help everyone - including those not directly involved with the work - reflect on jobs well done and progress well made.
-- **Project every 4 months - Kickoffs** - Kickoffs are essentially the opposites of Heartbeats. Rather than 
-  reflect, they project. They're all about what the team plans on taking on over the next 4 months. Projects, initiatives, revamps, whatever it might be, if it's on the slate, it gets summarized in the Kickoff. While Kickoffs detail specific work for a specific team, they're also meant for IT Department consumption. Like Heartbeats, they're written by the team manager. Kickoffs are broad in scope, so they don't cover all the details in the work ahead - the teams doing the work are the ones that wade into those weeds. We don't want to overwhelm everyone with details that don't matter. If anyone's curious about something included in a Kickoff, they're free to post a comment and ask a question.
+- **Project every 4 months - Kickoffs** - Kickoffs are essentially the opposites of Heartbeats. Rather than reflect, they project. They're all about what the team plans on taking on over the next 4 months. Projects, initiatives, revamps, whatever it might be, if it's on the slate, it gets summarized in the Kickoff. While Kickoffs detail specific work for a specific team, they're also meant for IT Department consumption. Like Heartbeats, they're written by the team manager. Kickoffs are broad in scope, so they don't cover all the details in the work ahead - the teams doing the work are the ones that wade into those weeds. We don't want to overwhelm everyone with details that don't matter. If anyone's curious about something included in a Kickoff, they're free to post a comment and ask a question.
 
 **Note** - Context
 
-If you want to say or discuss anything please make sure to put it the right place. If we're discussing a  specific task, put it in the comment section below the task  itself. If we're talking about a specific document, put it in the  comments attached to the document. Communications stay attached to the  thing we're discussing. This provides the full story in one reliable  place.
+If you want to say or discuss anything please make sure to put it in the right place. If we're discussing a  specific task, put it in the comment section below the task  itself. If we're talking about a specific document, put it in the  comments attached to the document. Communications stay attached to the  thing we're discussing. This provides the full story in one reliable  place.
 
 ### RD Projects using Basecamp
 
@@ -65,11 +64,11 @@ For every new project, we will give it a code name and create a channel for it. 
 
 ### Git & GitHub
 
-We will use Git and GitHub for source control, assignment of task and pull request discussions.
+We will use Git and GitHub for source control, assignment of tasks and pull request discussions.
 
 ## Reference
 
-This section is entirely borrowed from the following places. For Basecamp, I wrote to Jason for his permission to use their internal communication. Here’s his respond: 
+This section is entirely borrowed from the following places. For Basecamp, I wrote to Jason for his permission to use their internal communication. Here’s his respond:
 
 **“Hey Abdullah-**
 
